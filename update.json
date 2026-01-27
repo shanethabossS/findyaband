@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.2",
+  "min_supported_version": "1.0.0",
+  "apk_url": "https://findthebandtt.netlify.app/find_ya_band_v1.apk",
+  "changelog": "- Performance improvements\n- Bug fixes"
+}
